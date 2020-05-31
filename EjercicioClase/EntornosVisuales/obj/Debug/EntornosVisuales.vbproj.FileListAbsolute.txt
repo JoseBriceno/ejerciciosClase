@@ -1,0 +1,13 @@
+C:\Users\Jose Mario Briceño\Downloads\IIP-IF325-master\EntornosVisuales\bin\Debug\EntornosVisuales.exe.config
+C:\Users\Jose Mario Briceño\Downloads\IIP-IF325-master\EntornosVisuales\bin\Debug\EntornosVisuales.exe
+C:\Users\Jose Mario Briceño\Downloads\IIP-IF325-master\EntornosVisuales\bin\Debug\EntornosVisuales.pdb
+C:\Users\Jose Mario Briceño\Downloads\IIP-IF325-master\EntornosVisuales\bin\Debug\EntornosVisuales.xml
+C:\Users\Jose Mario Briceño\Downloads\IIP-IF325-master\EntornosVisuales\obj\Debug\EntornosVisuales.vbprojAssemblyReference.cache
+C:\Users\Jose Mario Briceño\Downloads\IIP-IF325-master\EntornosVisuales\obj\Debug\EntornosVisuales.Form1.resources
+C:\Users\Jose Mario Briceño\Downloads\IIP-IF325-master\EntornosVisuales\obj\Debug\EntornosVisuales.Resources.resources
+C:\Users\Jose Mario Briceño\Downloads\IIP-IF325-master\EntornosVisuales\obj\Debug\EntornosVisuales.Validaciones.resources
+C:\Users\Jose Mario Briceño\Downloads\IIP-IF325-master\EntornosVisuales\obj\Debug\EntornosVisuales.vbproj.GenerateResource.cache
+C:\Users\Jose Mario Briceño\Downloads\IIP-IF325-master\EntornosVisuales\obj\Debug\EntornosVisuales.vbproj.CoreCompileInputs.cache
+C:\Users\Jose Mario Briceño\Downloads\IIP-IF325-master\EntornosVisuales\obj\Debug\EntornosVisuales.exe
+C:\Users\Jose Mario Briceño\Downloads\IIP-IF325-master\EntornosVisuales\obj\Debug\EntornosVisuales.xml
+C:\Users\Jose Mario Briceño\Downloads\IIP-IF325-master\EntornosVisuales\obj\Debug\EntornosVisuales.pdb
